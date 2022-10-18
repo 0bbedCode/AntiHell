@@ -33,3 +33,5 @@ Its best to actually open the URL and copy the redirected URL
 If we click it the new URL appears as:
 
 https://i.imgur.com/rKFsQk9.png
+
+Once upon opening if it downloads the host you can try adding .txt to the end of the URL , and or just direct copy that URL
