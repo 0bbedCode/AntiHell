@@ -25,6 +25,8 @@ Example:
 
 Going to NoTracking Repo we see a Host for "dnsmasq" when we hover our mouse over the link
 the right click copied link would be 
+![alt text](http://url/to/img.png](https://i.imgur.com/mV88i0c.png)
+
 
 https://i.imgur.com/mV88i0c.png
 
