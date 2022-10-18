@@ -1,0 +1,849 @@
+0.0.0.0 telemetry.microsoft.com
+0.0.0.0 vortex.data.microsoft.com
+0.0.0.0 vortex-win.data.microsoft.com
+0.0.0.0 telecommand.telemetry.microsoft.com
+0.0.0.0 telecommand.telemetry.microsoft.com.nsatc.net
+0.0.0.0 oca.telemetry.microsoft.com
+0.0.0.0 oca.telemetry.microsoft.com.nsatc.net
+0.0.0.0 sqm.telemetry.microsoft.com
+0.0.0.0 sqm.telemetry.microsoft.com.nsatc.net
+0.0.0.0 watson.telemetry.microsoft.com
+0.0.0.0 watson.telemetry.microsoft.com.nsatc.net
+0.0.0.0 redir.metaservices.microsoft.com
+0.0.0.0 choice.microsoft.com
+0.0.0.0 choice.microsoft.com.nsatc.net
+0.0.0.0 df.telemetry.microsoft.com
+0.0.0.0 wes.df.telemetry.microsoft.com
+0.0.0.0 reports.wes.df.telemetry.microsoft.com
+0.0.0.0 services.wes.df.telemetry.microsoft.com
+0.0.0.0 sqm.df.telemetry.microsoft.com
+0.0.0.0 watson.ppe.telemetry.microsoft.com
+0.0.0.0 telemetry.appex.bing.net
+0.0.0.0 telemetry.urs.microsoft.com
+0.0.0.0 telemetry.appex.bing.net:443
+0.0.0.0 settings-sandbox.data.microsoft.com
+0.0.0.0 vortex-sandbox.data.microsoft.com
+0.0.0.0 watson.microsoft.com
+0.0.0.0 survey.watson.microsoft.com
+0.0.0.0 watson.live.com
+0.0.0.0 statsfe2.ws.microsoft.com
+0.0.0.0 corpext.msitadfs.glbdns2.microsoft.com
+0.0.0.0 compatexchange.cloudapp.net
+0.0.0.0 cs1.wpc.v0cdn.net
+0.0.0.0 a-0001.a-msedge.net
+0.0.0.0 fe2.update.microsoft.com.akadns.net
+0.0.0.0 statsfe2.update.microsoft.com.akadns.net
+0.0.0.0 sls.update.microsoft.com.akadns.net
+0.0.0.0 diagnostics.support.microsoft.com
+0.0.0.0 corp.sts.microsoft.com
+0.0.0.0 statsfe1.ws.microsoft.com
+0.0.0.0 pre.footprintpredict.com
+0.0.0.0 i1.services.social.microsoft.com
+0.0.0.0 i1.services.social.microsoft.com.nsatc.net
+0.0.0.0 feedback.windows.com
+0.0.0.0 feedback.microsoft-hohm.com
+0.0.0.0 feedback.search.microsoft.com
+0.0.0.0 cdn.content.prod.cms.msn.com
+0.0.0.0 cdn.content.prod.cms.msn.com.edgekey.net
+0.0.0.0 e10663.g.akamaiedge.net
+0.0.0.0 dmd.metaservices.microsoft.com
+0.0.0.0 schemas.microsoft.com
+0.0.0.0 go.microsoft.com
+0.0.0.0 40.76.0.0/14
+0.0.0.0 40.96.0.0/12
+0.0.0.0 40.124.0.0/16
+0.0.0.0 40.112.0.0/13
+0.0.0.0 40.125.0.0/17
+0.0.0.0 40.74.0.0/15
+0.0.0.0 40.80.0.0/12
+0.0.0.0 40.120.0.0/14
+0.0.0.0 137.116.0.0/16
+0.0.0.0 23.192.0.0/11
+0.0.0.0 23.32.0.0/11
+0.0.0.0 23.64.0.0/14
+0.0.0.0 23.55.130.182
+0.0.0.0 a.ads1.msn.com
+0.0.0.0 a.ads2.msads.net
+0.0.0.0 a.ads2.msn.com
+0.0.0.0 a.rad.msn.com
+0.0.0.0 a-0001.a-msedge.net
+0.0.0.0 a-0002.a-msedge.net
+0.0.0.0 a-0003.a-msedge.net
+0.0.0.0 a-0004.a-msedge.net
+0.0.0.0 a-0005.a-msedge.net
+0.0.0.0 a-0006.a-msedge.net
+0.0.0.0 a-0007.a-msedge.net
+0.0.0.0 a-0008.a-msedge.net
+0.0.0.0 a-0009.a-msedge.net
+0.0.0.0 ac3.msn.com
+0.0.0.0 ad.doubleclick.net
+0.0.0.0 adnexus.net
+0.0.0.0 adnxs.com
+0.0.0.0 ads.msn.com
+0.0.0.0 ads1.msads.net
+0.0.0.0 ads1.msn.com
+0.0.0.0 aidps.atdmt.com
+0.0.0.0 aka-cdn-ns.adtech.de
+0.0.0.0 a-msedge.net
+0.0.0.0 az361816.vo.msecnd.net
+0.0.0.0 az512334.vo.msecnd.net
+0.0.0.0 b.ads1.msn.com
+0.0.0.0 b.ads2.msads.net
+0.0.0.0 b.rad.msn.com
+0.0.0.0 bs.serving-sys.com
+0.0.0.0 c.atdmt.com
+0.0.0.0 c.msn.com
+0.0.0.0 cdn.atdmt.com
+0.0.0.0 cds26.ams9.msecn.net
+0.0.0.0 choice.microsoft.com
+0.0.0.0 choice.microsoft.com.nsatc.net
+0.0.0.0 compatexchange.cloudapp.net
+0.0.0.0 corp.sts.microsoft.com
+0.0.0.0 corpext.msitadfs.glbdns2.microsoft.com
+0.0.0.0 cs1.wpc.v0cdn.net
+0.0.0.0 db3aqu.atdmt.com
+0.0.0.0 df.telemetry.microsoft.com
+0.0.0.0 diagnostics.support.microsoft.com
+0.0.0.0 ec.atdmt.com
+0.0.0.0 feedback.microsoft-hohm.com
+0.0.0.0 feedback.search.microsoft.com
+0.0.0.0 feedback.windows.com
+0.0.0.0 flex.msn.com
+0.0.0.0 g.msn.com
+0.0.0.0 h1.msn.com
+0.0.0.0 i1.services.social.microsoft.com
+0.0.0.0 i1.services.social.microsoft.com.nsatc.net
+0.0.0.0 lb1.www.ms.akadns.net
+0.0.0.0 live.rads.msn.com
+0.0.0.0 m.adnxs.com
+0.0.0.0 msedge.net
+0.0.0.0 msftncsi.com
+0.0.0.0 msnbot-65-55-108-23.search.msn.com
+0.0.0.0 msntest.serving-sys.com
+0.0.0.0 oca.telemetry.microsoft.com
+0.0.0.0 oca.telemetry.microsoft.com.nsatc.net
+0.0.0.0 pre.footprintpredict.com
+0.0.0.0 preview.msn.com
+0.0.0.0 rad.live.com
+0.0.0.0 rad.msn.com
+0.0.0.0 redir.metaservices.microsoft.com
+0.0.0.0 reports.wes.df.telemetry.microsoft.com
+0.0.0.0 schemas.microsoft.akadns.net
+0.0.0.0 secure.adnxs.com
+0.0.0.0 secure.flashtalking.com
+0.0.0.0 services.wes.df.telemetry.microsoft.com
+0.0.0.0 settings-sandbox.data.microsoft.com
+0.0.0.0 settings-win.data.microsoft.com
+0.0.0.0 sls.update.microsoft.com.akadns.net
+0.0.0.0 sqm.df.telemetry.microsoft.com
+0.0.0.0 sqm.telemetry.microsoft.com
+0.0.0.0 sqm.telemetry.microsoft.com.nsatc.net
+0.0.0.0 ssw.live.com
+0.0.0.0 static.2mdn.net
+0.0.0.0 statsfe1.ws.microsoft.com
+0.0.0.0 statsfe2.ws.microsoft.com
+0.0.0.0 telecommand.telemetry.microsoft.com
+0.0.0.0 telecommand.telemetry.microsoft.com.nsatc.net
+0.0.0.0 telemetry.appex.bing.net
+0.0.0.0 telemetry.microsoft.com
+0.0.0.0 telemetry.urs.microsoft.com
+0.0.0.0 v10.vortex-win.data.microsoft.com
+0.0.0.0 vortex.data.glbdns2.microsoft.com
+0.0.0.0 vortex.data.microsoft.com
+0.0.0.0 vortex-bn2.metron.live.com.nsatc.net
+0.0.0.0 vortex-cy2.metron.live.com.nsatc.net
+0.0.0.0 vortex-sandbox.data.microsoft.com
+0.0.0.0 vortex-win.data.metron.live.com.nsatc.net
+0.0.0.0 vortex-win.data.microsoft.com
+0.0.0.0 watson.live.com
+0.0.0.0 web.vortex.data.microsoft.com
+0.0.0.0 www.msftncsi.com
+0.0.0.0 apps.skype.com
+0.0.0.0 fe2.update.microsoft.com.akadns.net
+0.0.0.0 m.hotmail.com
+0.0.0.0 pricelist.skype.com
+0.0.0.0 s.gateway.messenger.live.com
+0.0.0.0 s0.2mdn.net
+0.0.0.0 statsfe2.update.microsoft.com.akadns.net
+0.0.0.0 survey.watson.microsoft.com
+0.0.0.0 ui.skype.com
+0.0.0.0 view.atdmt.com
+0.0.0.0 watson.microsoft.com
+0.0.0.0 watson.ppe.telemetry.microsoft.com
+0.0.0.0 watson.telemetry.microsoft.com
+0.0.0.0 watson.telemetry.microsoft.com.nsatc.net
+0.0.0.0 wes.df.telemetry.microsoft.com
+0.0.0.0 ars.smartscreen.microsoft.com
+0.0.0.0 blob.weather.microsoft.com
+0.0.0.0 candycrushsoda.king.com
+0.0.0.0 cdn.onenote.net
+0.0.0.0 client.wns.windows.com
+0.0.0.0 client-s.gateway.messenger.live.com
+0.0.0.0 clientconfig.passport.net
+0.0.0.0 deploy.static.akamaitechnologies.com
+0.0.0.0 device.auth.xboxlive.com
+0.0.0.0 img-s-msn-com.akamaized.net
+0.0.0.0 insiderppe.cloudapp.net
+0.0.0.0 licensing.mp.microsoft.com
+0.0.0.0 mediaredirect.microsoft.com
+0.0.0.0 officeclient.microsoft.com
+0.0.0.0 oneclient.sfx.ms
+0.0.0.0 pti.store.microsoft.com
+0.0.0.0 query.prod.cms.rt.microsoft.com
+0.0.0.0 register.cdpcs.microsoft.com
+0.0.0.0 sO.2mdn.net
+0.0.0.0 search.msn.com
+0.0.0.0 settings-ssl.xboxlive.com
+0.0.0.0 store-images.s-microsoft.com
+0.0.0.0 storeedgefd.dsx.mp.microsoft.com
+0.0.0.0 support.microsoft.com
+0.0.0.0 tile-service.weather.microsoft.com
+0.0.0.0 time.windows.com
+0.0.0.0 tk2.plt.msn.com
+0.0.0.0 urs.smartscreen.microsoft.com
+0.0.0.0 wdcp.microsoft.com
+0.0.0.0 wdcpalt.microsoft.com
+0.0.0.0 win10-trt.msedge.net
+0.0.0.0 wscont.apps.microsoft.com
+0.0.0.0 a-0001.dc-msedge.net
+0.0.0.0 a-0010.a-msedge.net
+0.0.0.0 a-0011.a-msedge.net
+0.0.0.0 a-0012.a-msedge.net
+0.0.0.0 activity.windows.com
+0.0.0.0 array101-prod.do.dsp.mp.microsoft.com
+0.0.0.0 array102-prod.do.dsp.mp.microsoft.com
+0.0.0.0 array103-prod.do.dsp.mp.microsoft.com
+0.0.0.0 array104-prod.do.dsp.mp.microsoft.com
+0.0.0.0 array201-prod.do.dsp.mp.microsoft.com
+0.0.0.0 array202-prod.do.dsp.mp.microsoft.com
+0.0.0.0 array203-prod.do.dsp.mp.microsoft.com
+0.0.0.0 array204-prod.do.dsp.mp.microsoft.com
+0.0.0.0 array401-prod.do.dsp.mp.microsoft.com
+0.0.0.0 array402-prod.do.dsp.mp.microsoft.com
+0.0.0.0 array403-prod.do.dsp.mp.microsoft.com
+0.0.0.0 array404-prod.do.dsp.mp.microsoft.com
+0.0.0.0 array405-prod.do.dsp.mp.microsoft.com
+0.0.0.0 array406-prod.do.dsp.mp.microsoft.com
+0.0.0.0 array407-prod.do.dsp.mp.microsoft.com
+0.0.0.0 array408-prod.do.dsp.mp.microsoft.com
+0.0.0.0 bingads.microsoft.com
+0.0.0.0 bl3301-a.1drv.com
+0.0.0.0 bl3301-c.1drv.com
+0.0.0.0 bl3301-g.1drv.com
+0.0.0.0 bn1304-e.1drv.com
+0.0.0.0 bn1306-a.1drv.com
+0.0.0.0 bn1306-e.1drv.com
+0.0.0.0 bn1306-g.1drv.com
+0.0.0.0 bn2b-cor001.api.p001.1drv.com
+0.0.0.0 bn2b-cor002.api.p001.1drv.com
+0.0.0.0 bn3p-cor001.api.p001.1drv.com
+0.0.0.0 bn2b-cor003.api.p001.1drv.com
+0.0.0.0 bn2b-cor004.api.p001.1drv.com
+0.0.0.0 bn2wns1.wns.windows.com
+0.0.0.0 bn3sch020022328.wns.windows.com
+0.0.0.0 by3301-a.1drv.com
+0.0.0.0 by3301-c.1drv.com
+0.0.0.0 by3301-e.1drv.com
+0.0.0.0 c-0001.dc-msedge.net
+0.0.0.0 ca.telemetry.microsoft.com
+0.0.0.0 cache.datamart.windows.com
+0.0.0.0 cds1204.lon.llnw.net
+0.0.0.0 cds1293.lon.llnw.net
+0.0.0.0 cds20417.lcy.llnw.net
+0.0.0.0 cds20431.lcy.llnw.net
+0.0.0.0 cds20450.lcy.llnw.net
+0.0.0.0 cds20457.lcy.llnw.net
+0.0.0.0 cds20475.lcy.llnw.net
+0.0.0.0 cds21244.lon.llnw.net
+0.0.0.0 cds425.lcy.llnw.net
+0.0.0.0 cds459.lcy.llnw.net
+0.0.0.0 cds494.lcy.llnw.net
+0.0.0.0 cds965.lon.llnw.net
+0.0.0.0 ch1-cor001.api.p001.1drv.com
+0.0.0.0 ch1-cor002.api.p001.1drv.com
+0.0.0.0 ch3301-c.1drv.com
+0.0.0.0 ch3301-e.1drv.com
+0.0.0.0 ch3301-g.1drv.com
+0.0.0.0 ch3302-c.1drv.com
+0.0.0.0 ch3302-e.1drv.com
+0.0.0.0 compatexchange1.trafficmanager.net
+0.0.0.0 continuum.dds.microsoft.com
+0.0.0.0 cp101-prod.do.dsp.mp.microsoft.com
+0.0.0.0 cp201-prod.do.dsp.mp.microsoft.com
+0.0.0.0 cp401-prod.do.dsp.mp.microsoft.com
+0.0.0.0 db3wns2011111.wns.windows.com
+0.0.0.0 db5.wns.windows.com
+0.0.0.0 db5sch101100122.wns.windows.com
+0.0.0.0 db5sch101100127.wns.windows.com
+0.0.0.0 db5sch101100831.wns.windows.com
+0.0.0.0 db5sch101100835.wns.windows.com
+0.0.0.0 db5sch101100917.wns.windows.com
+0.0.0.0 db5sch101100925.wns.windows.com
+0.0.0.0 db5sch101100928.wns.windows.com
+0.0.0.0 db5sch101100938.wns.windows.com
+0.0.0.0 db5sch101101001.wns.windows.com
+0.0.0.0 db5sch101101022.wns.windows.com
+0.0.0.0 db5sch101101024.wns.windows.com
+0.0.0.0 db5sch101101031.wns.windows.com
+0.0.0.0 db5sch101101034.wns.windows.com
+0.0.0.0 db5sch101101042.wns.windows.com
+0.0.0.0 db5sch101101044.wns.windows.com
+0.0.0.0 db5sch101101122.wns.windows.com
+0.0.0.0 db5sch101101123.wns.windows.com
+0.0.0.0 db5sch101101125.wns.windows.com
+0.0.0.0 db5sch101101128.wns.windows.com
+0.0.0.0 db5sch101101129.wns.windows.com
+0.0.0.0 db5sch101101133.wns.windows.com
+0.0.0.0 db5sch101101145.wns.windows.com
+0.0.0.0 db5sch101101209.wns.windows.com
+0.0.0.0 db5sch101101221.wns.windows.com
+0.0.0.0 db5sch101101228.wns.windows.com
+0.0.0.0 db5sch101101231.wns.windows.com
+0.0.0.0 db5sch101101237.wns.windows.com
+0.0.0.0 db5sch101101317.wns.windows.com
+0.0.0.0 db5sch101101324.wns.windows.com
+0.0.0.0 db5sch101101329.wns.windows.com
+0.0.0.0 db5sch101101333.wns.windows.com
+0.0.0.0 db5sch101101334.wns.windows.com
+0.0.0.0 db5sch101101338.wns.windows.com
+0.0.0.0 db5sch101101419.wns.windows.com
+0.0.0.0 db5sch101101424.wns.windows.com
+0.0.0.0 db5sch101101426.wns.windows.com
+0.0.0.0 db5sch101101427.wns.windows.com
+0.0.0.0 db5sch101101430.wns.windows.com
+0.0.0.0 db5sch101101445.wns.windows.com
+0.0.0.0 db5sch101101511.wns.windows.com
+0.0.0.0 db5sch101101519.wns.windows.com
+0.0.0.0 db5sch101101529.wns.windows.com
+0.0.0.0 db5sch101101535.wns.windows.com
+0.0.0.0 db5sch101101541.wns.windows.com
+0.0.0.0 db5sch101101543.wns.windows.com
+0.0.0.0 db5sch101101608.wns.windows.com
+0.0.0.0 db5sch101101618.wns.windows.com
+0.0.0.0 db5sch101101629.wns.windows.com
+0.0.0.0 db5sch101101631.wns.windows.com
+0.0.0.0 db5sch101101633.wns.windows.com
+0.0.0.0 db5sch101101640.wns.windows.com
+0.0.0.0 db5sch101101711.wns.windows.com
+0.0.0.0 db5sch101101722.wns.windows.com
+0.0.0.0 db5sch101101739.wns.windows.com
+0.0.0.0 db5sch101101745.wns.windows.com
+0.0.0.0 db5sch101101813.wns.windows.com
+0.0.0.0 db5sch101101820.wns.windows.com
+0.0.0.0 db5sch101101826.wns.windows.com
+0.0.0.0 db5sch101101835.wns.windows.com
+0.0.0.0 db5sch101101837.wns.windows.com
+0.0.0.0 db5sch101101844.wns.windows.com
+0.0.0.0 db5sch101101907.wns.windows.com
+0.0.0.0 db5sch101101914.wns.windows.com
+0.0.0.0 db5sch101101929.wns.windows.com
+0.0.0.0 db5sch101101939.wns.windows.com
+0.0.0.0 db5sch101101941.wns.windows.com
+0.0.0.0 db5sch101102015.wns.windows.com
+0.0.0.0 db5sch101102017.wns.windows.com
+0.0.0.0 db5sch101102019.wns.windows.com
+0.0.0.0 db5sch101102023.wns.windows.com
+0.0.0.0 db5sch101102025.wns.windows.com
+0.0.0.0 db5sch101102032.wns.windows.com
+0.0.0.0 db5sch101102033.wns.windows.com
+0.0.0.0 db5sch101110108.wns.windows.com
+0.0.0.0 db5sch101110109.wns.windows.com
+0.0.0.0 db5sch101110114.wns.windows.com
+0.0.0.0 db5sch101110135.wns.windows.com
+0.0.0.0 db5sch101110142.wns.windows.com
+0.0.0.0 db5sch101110204.wns.windows.com
+0.0.0.0 db5sch101110206.wns.windows.com
+0.0.0.0 db5sch101110214.wns.windows.com
+0.0.0.0 db5sch101110225.wns.windows.com
+0.0.0.0 db5sch101110232.wns.windows.com
+0.0.0.0 db5sch101110245.wns.windows.com
+0.0.0.0 db5sch101110315.wns.windows.com
+0.0.0.0 db5sch101110323.wns.windows.com
+0.0.0.0 db5sch101110325.wns.windows.com
+0.0.0.0 db5sch101110328.wns.windows.com
+0.0.0.0 db5sch101110331.wns.windows.com
+0.0.0.0 db5sch101110341.wns.windows.com
+0.0.0.0 db5sch101110343.wns.windows.com
+0.0.0.0 db5sch101110345.wns.windows.com
+0.0.0.0 db5sch101110403.wns.windows.com
+0.0.0.0 db5sch101110419.wns.windows.com
+0.0.0.0 db5sch101110438.wns.windows.com
+0.0.0.0 db5sch101110442.wns.windows.com
+0.0.0.0 db5sch101110501.wns.windows.com
+0.0.0.0 db5sch101110527.wns.windows.com
+0.0.0.0 db5sch101110533.wns.windows.com
+0.0.0.0 db5sch101110618.wns.windows.com
+0.0.0.0 db5sch101110622.wns.windows.com
+0.0.0.0 db5sch101110624.wns.windows.com
+0.0.0.0 db5sch101110626.wns.windows.com
+0.0.0.0 db5sch101110634.wns.windows.com
+0.0.0.0 db5sch101110705.wns.windows.com
+0.0.0.0 db5sch101110724.wns.windows.com
+0.0.0.0 db5sch101110740.wns.windows.com
+0.0.0.0 db5sch101110810.wns.windows.com
+0.0.0.0 db5sch101110816.wns.windows.com
+0.0.0.0 db5sch101110821.wns.windows.com
+0.0.0.0 db5sch101110822.wns.windows.com
+0.0.0.0 db5sch101110825.wns.windows.com
+0.0.0.0 db5sch101110828.wns.windows.com
+0.0.0.0 db5sch101110835.wns.windows.com
+0.0.0.0 db5sch101110919.wns.windows.com
+0.0.0.0 db5sch101110921.wns.windows.com
+0.0.0.0 db5sch101110923.wns.windows.com
+0.0.0.0 db5sch101110929.wns.windows.com
+0.0.0.0 db5sch103081814.wns.windows.com
+0.0.0.0 db5sch103082011.wns.windows.com
+0.0.0.0 db5sch103082111.wns.windows.com
+0.0.0.0 db5sch103082308.wns.windows.com
+0.0.0.0 db5sch103082406.wns.windows.com
+0.0.0.0 db5sch103082409.wns.windows.com
+0.0.0.0 db5sch103082609.wns.windows.com
+0.0.0.0 db5sch103082611.wns.windows.com
+0.0.0.0 db5sch103082709.wns.windows.com
+0.0.0.0 db5sch103082712.wns.windows.com
+0.0.0.0 db5sch103082806.wns.windows.com
+0.0.0.0 db5sch103090115.wns.windows.com
+0.0.0.0 db5sch103090415.wns.windows.com
+0.0.0.0 db5sch103090513.wns.windows.com
+0.0.0.0 db5sch103090515.wns.windows.com
+0.0.0.0 db5sch103090608.wns.windows.com
+0.0.0.0 db5sch103090806.wns.windows.com
+0.0.0.0 db5sch103090814.wns.windows.com
+0.0.0.0 db5sch103090906.wns.windows.com
+0.0.0.0 db5sch103091011.wns.windows.com
+0.0.0.0 db5sch103091012.wns.windows.com
+0.0.0.0 db5sch103091106.wns.windows.com
+0.0.0.0 db5sch103091108.wns.windows.com
+0.0.0.0 db5sch103091212.wns.windows.com
+0.0.0.0 db5sch103091311.wns.windows.com
+0.0.0.0 db5sch103091414.wns.windows.com
+0.0.0.0 db5sch103091511.wns.windows.com
+0.0.0.0 db5sch103091617.wns.windows.com
+0.0.0.0 db5sch103091715.wns.windows.com
+0.0.0.0 db5sch103091817.wns.windows.com
+0.0.0.0 db5sch103091908.wns.windows.com
+0.0.0.0 db5sch103091911.wns.windows.com
+0.0.0.0 db5sch103092010.wns.windows.com
+0.0.0.0 db5sch103092108.wns.windows.com
+0.0.0.0 db5sch103092109.wns.windows.com
+0.0.0.0 db5sch103092209.wns.windows.com
+0.0.0.0 db5sch103092210.wns.windows.com
+0.0.0.0 db5sch103092509.wns.windows.com
+0.0.0.0 db5sch103100117.wns.windows.com
+0.0.0.0 db5sch103100121.wns.windows.com
+0.0.0.0 db5sch103100221.wns.windows.com
+0.0.0.0 db5sch103100313.wns.windows.com
+0.0.0.0 db5sch103100314.wns.windows.com
+0.0.0.0 db5sch103100510.wns.windows.com
+0.0.0.0 db5sch103100511.wns.windows.com
+0.0.0.0 db5sch103100611.wns.windows.com
+0.0.0.0 db5sch103100712.wns.windows.com
+0.0.0.0 db5sch103101105.wns.windows.com
+0.0.0.0 db5sch103101208.wns.windows.com
+0.0.0.0 db5sch103101212.wns.windows.com
+0.0.0.0 db5sch103101314.wns.windows.com
+0.0.0.0 db5sch103101411.wns.windows.com
+0.0.0.0 db5sch103101413.wns.windows.com
+0.0.0.0 db5sch103101513.wns.windows.com
+0.0.0.0 db5sch103101610.wns.windows.com
+0.0.0.0 db5sch103101611.wns.windows.com
+0.0.0.0 db5sch103101705.wns.windows.com
+0.0.0.0 db5sch103101711.wns.windows.com
+0.0.0.0 db5sch103101909.wns.windows.com
+0.0.0.0 db5sch103101914.wns.windows.com
+0.0.0.0 db5sch103102009.wns.windows.com
+0.0.0.0 db5sch103102112.wns.windows.com
+0.0.0.0 db5sch103102203.wns.windows.com
+0.0.0.0 db5sch103102209.wns.windows.com
+0.0.0.0 db5sch103102310.wns.windows.com
+0.0.0.0 db5sch103102404.wns.windows.com
+0.0.0.0 db5sch103102609.wns.windows.com
+0.0.0.0 db5sch103102610.wns.windows.com
+0.0.0.0 db5sch103102805.wns.windows.com
+0.0.0.0 db5wns1d.wns.windows.com
+0.0.0.0 db6sch102090104.wns.windows.com
+0.0.0.0 db6sch102090112.wns.windows.com
+0.0.0.0 db6sch102090116.wns.windows.com
+0.0.0.0 db6sch102090122.wns.windows.com
+0.0.0.0 db6sch102090203.wns.windows.com
+0.0.0.0 db6sch102090206.wns.windows.com
+0.0.0.0 db6sch102090208.wns.windows.com
+0.0.0.0 db6sch102090209.wns.windows.com
+0.0.0.0 db6sch102090211.wns.windows.com
+0.0.0.0 db6sch102090305.wns.windows.com
+0.0.0.0 db6sch102090306.wns.windows.com
+0.0.0.0 db6sch102090308.wns.windows.com
+0.0.0.0 db6sch102090311.wns.windows.com
+0.0.0.0 db6sch102090313.wns.windows.com
+0.0.0.0 db6sch102090410.wns.windows.com
+0.0.0.0 db6sch102090412.wns.windows.com
+0.0.0.0 db6sch102090504.wns.windows.com
+0.0.0.0 db6sch102090510.wns.windows.com
+0.0.0.0 db6sch102090512.wns.windows.com
+0.0.0.0 db6sch102090513.wns.windows.com
+0.0.0.0 db6sch102090514.wns.windows.com
+0.0.0.0 db6sch102090519.wns.windows.com
+0.0.0.0 db6sch102090613.wns.windows.com
+0.0.0.0 db6sch102090619.wns.windows.com
+0.0.0.0 db6sch102090810.wns.windows.com
+0.0.0.0 db6sch102090811.wns.windows.com
+0.0.0.0 db6sch102090902.wns.windows.com
+0.0.0.0 db6sch102090905.wns.windows.com
+0.0.0.0 db6sch102090907.wns.windows.com
+0.0.0.0 db6sch102090908.wns.windows.com
+0.0.0.0 db6sch102090910.wns.windows.com
+0.0.0.0 db6sch102090911.wns.windows.com
+0.0.0.0 db6sch102091003.wns.windows.com
+0.0.0.0 db6sch102091007.wns.windows.com
+0.0.0.0 db6sch102091008.wns.windows.com
+0.0.0.0 db6sch102091009.wns.windows.com
+0.0.0.0 db6sch102091011.wns.windows.com
+0.0.0.0 db6sch102091103.wns.windows.com
+0.0.0.0 db6sch102091105.wns.windows.com
+0.0.0.0 db6sch102091204.wns.windows.com
+0.0.0.0 db6sch102091209.wns.windows.com
+0.0.0.0 db6sch102091305.wns.windows.com
+0.0.0.0 db6sch102091307.wns.windows.com
+0.0.0.0 db6sch102091308.wns.windows.com
+0.0.0.0 db6sch102091309.wns.windows.com
+0.0.0.0 db6sch102091314.wns.windows.com
+0.0.0.0 db6sch102091412.wns.windows.com
+0.0.0.0 db6sch102091503.wns.windows.com
+0.0.0.0 db6sch102091507.wns.windows.com
+0.0.0.0 db6sch102091602.wns.windows.com
+0.0.0.0 db6sch102091603.wns.windows.com
+0.0.0.0 db6sch102091606.wns.windows.com
+0.0.0.0 db6sch102091607.wns.windows.com
+0.0.0.0 dev.virtualearth.net
+0.0.0.0 disc101-prod.do.dsp.mp.microsoft.com
+0.0.0.0 disc201-prod.do.dsp.mp.microsoft.com
+0.0.0.0 disc401-prod.do.dsp.mp.microsoft.com
+0.0.0.0 ecn.dev.virtualearth.net
+0.0.0.0 eu.vortex.data.microsoft.com
+0.0.0.0 fs.microsoft.com
+0.0.0.0 geo-prod.do.dsp.mp.microsoft.com
+0.0.0.0 geover-prod.do.dsp.mp.microsoft.com
+0.0.0.0 h2.msn.com
+0.0.0.0 i-bl6p-cor001.api.p001.1drv.com
+0.0.0.0 i-by3p-cor001.api.p001.1drv.com
+0.0.0.0 i-by3p-cor002.api.p001.1drv.com
+0.0.0.0 i-ch1-cor001.api.p001.1drv.com
+0.0.0.0 i-ch1-cor002.api.p001.1drv.com
+0.0.0.0 i-sn2-cor001.api.p001.1drv.com
+0.0.0.0 i-sn2-cor002.api.p001.1drv.com
+0.0.0.0 inference.location.live.net
+0.0.0.0 kv101-prod.do.dsp.mp.microsoft.com
+0.0.0.0 kv201-prod.do.dsp.mp.microsoft.com
+0.0.0.0 kv401-prod.do.dsp.mp.microsoft.com
+0.0.0.0 ls2web.redmond.corp.microsoft.com
+0.0.0.0 mobile.pipe.aria.microsoft.com
+0.0.0.0 settings-win-ppe.data.microsoft.com
+0.0.0.0 settings.data.glbdns2.microsoft.com
+0.0.0.0 settings.data.microsoft.com
+0.0.0.0 sn3301-c.1drv.com
+0.0.0.0 sn3301-e.1drv.com
+0.0.0.0 sn3301-g.1drv.com
+0.0.0.0 spynet2.microsoft.com
+0.0.0.0 spynetalt.microsoft.com
+0.0.0.0 spyneteurope.microsoft.akadns.net
+0.0.0.0 storecatalogrevocation.storequality.microsoft.com
+0.0.0.0 t0.ssl.ak.dynamic.tiles.virtualearth.net
+0.0.0.0 t0.ssl.ak.tiles.virtualearth.net
+0.0.0.0 test.activity.windows.com
+0.0.0.0 tsfe.trafficshaping.dsp.mp.microsoft.com
+0.0.0.0 v10.vortex-win.data.metron.live.com.nsatc.net
+0.0.0.0 version.hybrid.api.here.com
+0.0.0.0 vortex-db5.metron.live.com.nsatc.net
+0.0.0.0 vortex-hk2.metron.live.com.nsatc.net
+0.0.0.0 vortex.data.metron.live.com.nsatc.net
+0.0.0.0 win10.ipv6.microsoft.com
+0.0.0.0 win1710.ipv6.microsoft.com
+0.0.0.0 www.msedge.net
+0.0.0.0 0.0.0.0			# Entry added with W10Privacy (www.winprivacy.de)!
+0.0.0.0 a-0001.a-msedge.net			# Entry added with W10Privacy (www.winprivacy.de)!
+0.0.0.0 a-0001.dc-msedge.net			# Entry added with W10Privacy (www.winprivacy.de)!
+0.0.0.0 a-0002.a-msedge.net			# Entry added with W10Privacy (www.winprivacy.de)!
+0.0.0.0 a-0003.a-msedge.net			# Entry added with W10Privacy (www.winprivacy.de)!
+0.0.0.0 a-0003.dc-msedge.net			# Entry added with W10Privacy (www.winprivacy.de)!
+0.0.0.0 a-0004.a-msedge.net			# Entry added with W10Privacy (www.winprivacy.de)!
+0.0.0.0 a-0005.a-msedge.net			# Entry added with W10Privacy (www.winprivacy.de)!
+0.0.0.0 a-0006.a-msedge.net			# Entry added with W10Privacy (www.winprivacy.de)!
+0.0.0.0 a-0007.a-msedge.net			# Entry added with W10Privacy (www.winprivacy.de)!
+0.0.0.0 a-0008.a-msedge.net			# Entry added with W10Privacy (www.winprivacy.de)!
+0.0.0.0 a-0009.a-msedge.net			# Entry added with W10Privacy (www.winprivacy.de)!
+0.0.0.0 a-0010.a-msedge.net			# Entry added with W10Privacy (www.winprivacy.de)!
+0.0.0.0 a-0011.a-msedge.net			# Entry added with W10Privacy (www.winprivacy.de)!
+0.0.0.0 a-0012.a-msedge.net			# Entry added with W10Privacy (www.winprivacy.de)!
+0.0.0.0 a-msedge.net			# Entry added with W10Privacy (www.winprivacy.de)!
+0.0.0.0 a.rad.msn.com			# Entry added with W10Privacy (www.winprivacy.de)!
+0.0.0.0 a.ads1.msn.com			# Entry added with W10Privacy (www.winprivacy.de)!
+0.0.0.0 a.ads2.msn.com			# Entry added with W10Privacy (www.winprivacy.de)!
+0.0.0.0 a.ads2.msads.net			# Entry added with W10Privacy (www.winprivacy.de)!
+0.0.0.0 ac3.msn.com			# Entry added with W10Privacy (www.winprivacy.de)!
+0.0.0.0 ad.doubleclick.net			# Entry added with W10Privacy (www.winprivacy.de)!
+0.0.0.0 adnexus.net			# Entry added with W10Privacy (www.winprivacy.de)!
+0.0.0.0 adnxs.com			# Entry added with W10Privacy (www.winprivacy.de)!
+0.0.0.0 ads.msn.com			# Entry added with W10Privacy (www.winprivacy.de)!
+0.0.0.0 ads1.msads.net			# Entry added with W10Privacy (www.winprivacy.de)!
+0.0.0.0 ads1.msn.com			# Entry added with W10Privacy (www.winprivacy.de)!
+0.0.0.0 aidps.atdmt.com			# Entry added with W10Privacy (www.winprivacy.de)!
+0.0.0.0 aka-cdn-ns.adtech.de			# Entry added with W10Privacy (www.winprivacy.de)!
+0.0.0.0 alpha.telemetry.microsft.com			# Entry added with W10Privacy (www.winprivacy.de)!
+0.0.0.0 alpha.telemetry.microsoft.com			# Entry added with W10Privacy (www.winprivacy.de)!
+0.0.0.0 answers.microsoft.com			# Entry added with W10Privacy (www.winprivacy.de)!
+0.0.0.0 apac1.notify.windows.com.akadns.net			# Entry added with W10Privacy (www.winprivacy.de)!
+0.0.0.0 appex-rf.msn.com			# Entry added with W10Privacy (www.winprivacy.de)!
+0.0.0.0 api.cortana.ai			# Entry added with W10Privacy (www.winprivacy.de)!
+0.0.0.0 api.bing.com			# Entry added with W10Privacy (www.winprivacy.de)!
+0.0.0.0 api.onedrive.com			# Entry added with W10Privacy (www.winprivacy.de)!
+0.0.0.0 apps.skype.com			# Entry added with W10Privacy (www.winprivacy.de)!
+0.0.0.0 arc.msn.com			# Entry added with W10Privacy (www.winprivacy.de)!
+0.0.0.0 arc.msn.com.nsatc.net			# Entry added with W10Privacy (www.winprivacy.de)!
+0.0.0.0 ars.smartscreen.microsoft.com			# Entry added with W10Privacy (www.winprivacy.de)!
+0.0.0.0 asimov-win.settings.data.microsoft.com.akadns.net			# Entry added with W10Privacy (www.winprivacy.de)!
+0.0.0.0 auth.gfx.ms			# Entry added with W10Privacy (www.winprivacy.de)!
+0.0.0.0 az361816.vo.msecnd.net			# Entry added with W10Privacy (www.winprivacy.de)!
+0.0.0.0 az512334.vo.msecnd.net			# Entry added with W10Privacy (www.winprivacy.de)!
+0.0.0.0 b.rad.msn.com			# Entry added with W10Privacy (www.winprivacy.de)!
+0.0.0.0 b.ads2.msads.net			# Entry added with W10Privacy (www.winprivacy.de)!
+0.0.0.0 b.ads1.msn.com			# Entry added with W10Privacy (www.winprivacy.de)!
+0.0.0.0 bingads.microsoft.com			# Entry added with W10Privacy (www.winprivacy.de)!
+0.0.0.0 browser.events.data.microsoft.com			# Entry added with W10Privacy (www.winprivacy.de)!
+0.0.0.0 browser.pipe.aria.microsoft.com			# Entry added with W10Privacy (www.winprivacy.de)!
+0.0.0.0 bs.serving-sys.com			# Entry added with W10Privacy (www.winprivacy.de)!
+0.0.0.0 bubblewitch3mobile.king.com			# Entry added with W10Privacy (www.winprivacy.de)!
+0.0.0.0 c-0001.dc-msedge.net			# Entry added with W10Privacy (www.winprivacy.de)!
+0.0.0.0 c.atdmt.com			# Entry added with W10Privacy (www.winprivacy.de)!
+0.0.0.0 c.msn.com			# Entry added with W10Privacy (www.winprivacy.de)!
+0.0.0.0 c1.microsoft.com			# Entry added with W10Privacy (www.winprivacy.de)!
+0.0.0.0 cache.datamart.windows.com			# Entry added with W10Privacy (www.winprivacy.de)!
+0.0.0.0 candycrush.king.com			# Entry added with W10Privacy (www.winprivacy.de)!
+0.0.0.0 ceuswatcab01.blob.core.windows.net			# Entry added with W10Privacy (www.winprivacy.de)!
+0.0.0.0 ceuswatcab02.blob.core.windows.net			# Entry added with W10Privacy (www.winprivacy.de)!
+0.0.0.0 cdn.atdmt.com			# Entry added with W10Privacy (www.winprivacy.de)!
+0.0.0.0 cdn.content.prod.cms.msn.com			# Entry added with W10Privacy (www.winprivacy.de)!
+0.0.0.0 cdn.onenote.net			# Entry added with W10Privacy (www.winprivacy.de)!
+0.0.0.0 cds26.ams9.msecn.net			# Entry added with W10Privacy (www.winprivacy.de)!
+0.0.0.0 checkappexec.microsoft.com			# Entry added with W10Privacy (www.winprivacy.de)!
+0.0.0.0 choice.microsoft.com			# Entry added with W10Privacy (www.winprivacy.de)!
+0.0.0.0 choice.microsoft.com.nsatc.net			# Entry added with W10Privacy (www.winprivacy.de)!
+0.0.0.0 client-office365-tas.msedge.net			# Entry added with W10Privacy (www.winprivacy.de)!
+0.0.0.0 client-s.gateway.messenger.live.com			# Entry added with W10Privacy (www.winprivacy.de)!
+0.0.0.0 clientconfig.passport.net			# Entry added with W10Privacy (www.winprivacy.de)!
+0.0.0.0 client.wns.windows.com			# Entry added with W10Privacy (www.winprivacy.de)!
+0.0.0.0 co2.sls.microsoft.com			# Entry added with W10Privacy (www.winprivacy.de)!
+0.0.0.0 co4.telecommand.telemetry.microsoft.com.akadns.net			# Entry added with W10Privacy (www.winprivacy.de)!
+0.0.0.0 compatexchange.cloudapp.net			# Entry added with W10Privacy (www.winprivacy.de)!
+0.0.0.0 compatexchange1.trafficmanager.net			# Entry added with W10Privacy (www.winprivacy.de)!
+0.0.0.0 config.edge.skype.com			# Entry added with W10Privacy (www.winprivacy.de)!
+0.0.0.0 config.teams.microsoft.com			# Entry added with W10Privacy (www.winprivacy.de)!
+0.0.0.0 continuum.dds.microsoft.com			# Entry added with W10Privacy (www.winprivacy.de)!
+0.0.0.0 corp.sts.microsoft.com			# Entry added with W10Privacy (www.winprivacy.de)!
+0.0.0.0 corpext.msitadfs.glbdns2.microsoft.com			# Entry added with W10Privacy (www.winprivacy.de)!
+0.0.0.0 cs1.wpc.v0cdn.net			# Entry added with W10Privacy (www.winprivacy.de)!
+0.0.0.0 cs11.wpc.v0cdn.net			# Entry added with W10Privacy (www.winprivacy.de)!
+0.0.0.0 cs1137.wpc.gammacdn.net			# Entry added with W10Privacy (www.winprivacy.de)!
+0.0.0.0 cy2.displaycatalog.md.mp.microsoft.com.akadns.net			# Entry added with W10Privacy (www.winprivacy.de)!
+0.0.0.0 cy2.licensing.md.mp.microsoft.com.akadns.net			# Entry added with W10Privacy (www.winprivacy.de)!
+0.0.0.0 cy2.settings.data.microsoft.com.akadns.net			# Entry added with W10Privacy (www.winprivacy.de)!
+0.0.0.0 cy2.vortex.data.microsoft.com.akadns.net			# Entry added with W10Privacy (www.winprivacy.de)!
+0.0.0.0 db3aqu.atdmt.com			# Entry added with W10Privacy (www.winprivacy.de)!
+0.0.0.0 db5.settings-win.data.microsoft.com.akadns.net			# Entry added with W10Privacy (www.winprivacy.de)!
+0.0.0.0 db5.vortex.data.microsoft.com.akadns.net			# Entry added with W10Privacy (www.winprivacy.de)!
+0.0.0.0 db5.wns.windows.com			# Entry added with W10Privacy (www.winprivacy.de)!
+0.0.0.0 db5-dspcdn.tlu.dl.delivery.mp.microsoft.com			# Entry added with W10Privacy (www.winprivacy.de)!
+0.0.0.0 db5-eap.settings-win.data.microsoft.com.akadns.net			# Entry added with W10Privacy (www.winprivacy.de)!
+0.0.0.0 db5p.wns.windows.com			# Entry added with W10Privacy (www.winprivacy.de)!
+0.0.0.0 db5p.wns.notify.windows.com.akadns.net			# Entry added with W10Privacy (www.winprivacy.de)!
+0.0.0.0 df.telemetry.microsoft.com			# Entry added with W10Privacy (www.winprivacy.de)!
+0.0.0.0 diagnostics.support.microsoft.com			# Entry added with W10Privacy (www.winprivacy.de)!
+0.0.0.0 displaycatalog.mp.microsoft.com			# Entry added with W10Privacy (www.winprivacy.de)!
+0.0.0.0 dm3p.wns.notify.windows.com.akadns.net			# Entry added with W10Privacy (www.winprivacy.de)!
+0.0.0.0 dmd.metaservices.microsoft.com			# Entry added with W10Privacy (www.winprivacy.de)!
+0.0.0.0 dmd.metaservices.microsoft.com.akadns.net			# Entry added with W10Privacy (www.winprivacy.de)!
+0.0.0.0 dns.msftncsi.com			# Entry added with W10Privacy (www.winprivacy.de)!
+0.0.0.0 e-0009.e-msedge.net			# Entry added with W10Privacy (www.winprivacy.de)!
+0.0.0.0 e-msedge.net			# Entry added with W10Privacy (www.winprivacy.de)!
+0.0.0.0 eaus2watcab01.blob.core.windows.net			# Entry added with W10Privacy (www.winprivacy.de)!
+0.0.0.0 eaus2watcab02.blob.core.windows.net			# Entry added with W10Privacy (www.winprivacy.de)!
+0.0.0.0 ec.atdmt.com			# Entry added with W10Privacy (www.winprivacy.de)!
+0.0.0.0 eu.vortex.data.microsoft.com			# Entry added with W10Privacy (www.winprivacy.de)!
+0.0.0.0 eu.vortex-win.data.microsoft.com			# Entry added with W10Privacy (www.winprivacy.de)!
+0.0.0.0 eu-v10.events.data.microsoft.com			# Entry added with W10Privacy (www.winprivacy.de)!
+0.0.0.0 eu-v20.events.data.microsoft.com			# Entry added with W10Privacy (www.winprivacy.de)!
+0.0.0.0 europe.smartscreen-prod.microsoft.com			# Entry added with W10Privacy (www.winprivacy.de)!
+0.0.0.0 events.data.microsoft.com			# Entry added with W10Privacy (www.winprivacy.de)!
+0.0.0.0 evoke-windowsservices-tas.msedge.net			# Entry added with W10Privacy (www.winprivacy.de)!
+0.0.0.0 feedback.microsoft-hohm.com			# Entry added with W10Privacy (www.winprivacy.de)!
+0.0.0.0 feedback.search.microsoft.com			# Entry added with W10Privacy (www.winprivacy.de)!
+0.0.0.0 feedback.windows.com			# Entry added with W10Privacy (www.winprivacy.de)!
+0.0.0.0 finance.services.appex.bing.com			# Entry added with W10Privacy (www.winprivacy.de)!
+0.0.0.0 foodanddrink.tile.appex.bing.com			# Entry added with W10Privacy (www.winprivacy.de)!
+0.0.0.0 flex.msn.com			# Entry added with W10Privacy (www.winprivacy.de)!
+0.0.0.0 flightingservicewus.cloudapp.net			# Entry added with W10Privacy (www.winprivacy.de)!
+0.0.0.0 fs.microsoft.com			# Entry added with W10Privacy (www.winprivacy.de)!
+0.0.0.0 g.bing.com			# Entry added with W10Privacy (www.winprivacy.de)!
+0.0.0.0 g.live.com			# Entry added with W10Privacy (www.winprivacy.de)!
+0.0.0.0 g.msn.com			# Entry added with W10Privacy (www.winprivacy.de)!
+0.0.0.0 g.msn.com.nsatc.net			# Entry added with W10Privacy (www.winprivacy.de)!
+0.0.0.0 geo.settings.data.microsoft.com.akadns.net			# Entry added with W10Privacy (www.winprivacy.de)!
+0.0.0.0 geo.settings-win.data.microsoft.com.akadns.net			# Entry added with W10Privacy (www.winprivacy.de)!
+0.0.0.0 geo.vortex.data.microsoft.com.akadns.net			# Entry added with W10Privacy (www.winprivacy.de)!
+0.0.0.0 global.sam.msn.com			# Entry added with W10Privacy (www.winprivacy.de)!
+0.0.0.0 go.microsoft.com			# Entry added with W10Privacy (www.winprivacy.de)!
+0.0.0.0 h1.msn.com			# Entry added with W10Privacy (www.winprivacy.de)!
+0.0.0.0 h2.msn.com			# Entry added with W10Privacy (www.winprivacy.de)!
+0.0.0.0 hk2.settings.data.microsoft.com.akadns.net			# Entry added with W10Privacy (www.winprivacy.de)!
+0.0.0.0 hk2.wns.windows.com			# Entry added with W10Privacy (www.winprivacy.de)!
+0.0.0.0 i1.services.social.microsoft.com			# Entry added with W10Privacy (www.winprivacy.de)!
+0.0.0.0 i1.services.social.microsoft.com.nsatc.net			# Entry added with W10Privacy (www.winprivacy.de)!
+0.0.0.0 iecvlist.microsoft.com			# Entry added with W10Privacy (www.winprivacy.de)!
+0.0.0.0 ieonlinews.microsoft.com			# Entry added with W10Privacy (www.winprivacy.de)!
+0.0.0.0 ieonlinews.trafficmanager.net			# Entry added with W10Privacy (www.winprivacy.de)!
+0.0.0.0 inference.location.live.net			# Entry added with W10Privacy (www.winprivacy.de)!
+0.0.0.0 insiderservice.microsoft.com			# Entry added with W10Privacy (www.winprivacy.de)!
+0.0.0.0 ip5.afdorigin-prod-am02.afdogw.com			# Entry added with W10Privacy (www.winprivacy.de)!
+0.0.0.0 ipv4.login.msa.akadns6.net			# Entry added with W10Privacy (www.winprivacy.de)!
+0.0.0.0 iriscoremetadataprod.blob.core.windows.net			# Entry added with W10Privacy (www.winprivacy.de)!
+0.0.0.0 lb1.www.ms.akadns.net			# Entry added with W10Privacy (www.winprivacy.de)!
+0.0.0.0 live.rads.msn.com			# Entry added with W10Privacy (www.winprivacy.de)!
+0.0.0.0 location-inference-westus.cloudapp.net			# Entry added with W10Privacy (www.winprivacy.de)!
+0.0.0.0 m.adnxs.com			# Entry added with W10Privacy (www.winprivacy.de)!
+0.0.0.0 m.hotmail.com			# Entry added with W10Privacy (www.winprivacy.de)!
+0.0.0.0 mediaredirect.microsoft.com			# Entry added with W10Privacy (www.winprivacy.de)!
+0.0.0.0 mobile.events.data.microsoft.com			# Entry added with W10Privacy (www.winprivacy.de)!
+0.0.0.0 mobile.pipe.aria.microsoft.com			# Entry added with W10Privacy (www.winprivacy.de)!
+0.0.0.0 modern.watson.data.microsoft.com			# Entry added with W10Privacy (www.winprivacy.de)!
+0.0.0.0 modern.watson.data.microsoft.com.akadns.net			# Entry added with W10Privacy (www.winprivacy.de)!
+0.0.0.0 msagfx.live.com			# Entry added with W10Privacy (www.winprivacy.de)!
+0.0.0.0 msedge.net			# Entry added with W10Privacy (www.winprivacy.de)!
+0.0.0.0 msftncsi.com			# Entry added with W10Privacy (www.winprivacy.de)!
+0.0.0.0 msnbot-65-55-108-23.search.msn.com			# Entry added with W10Privacy (www.winprivacy.de)!
+0.0.0.0 msntest.serving-sys.com			# Entry added with W10Privacy (www.winprivacy.de)!
+0.0.0.0 nexus.officeapps.live.com			# Entry added with W10Privacy (www.winprivacy.de)!
+0.0.0.0 nexusrules.officeapps.live.com			# Entry added with W10Privacy (www.winprivacy.de)!
+0.0.0.0 oca.telemetry.microsft.com			# Entry added with W10Privacy (www.winprivacy.de)!
+0.0.0.0 oca.telemetry.microsoft.com			# Entry added with W10Privacy (www.winprivacy.de)!
+0.0.0.0 oca.telemetry.microsoft.com.nsatc.net			# Entry added with W10Privacy (www.winprivacy.de)!
+0.0.0.0 ocos-office365-s2s.msedge.net			# Entry added with W10Privacy (www.winprivacy.de)!
+0.0.0.0 officecdn.microsoft.com			# Entry added with W10Privacy (www.winprivacy.de)!
+0.0.0.0 officecdn.microsoft.com.edgesuite.net			# Entry added with W10Privacy (www.winprivacy.de)!
+0.0.0.0 officeclient.microsoft.comoneclient.sfx.ms			# Entry added with W10Privacy (www.winprivacy.de)!
+0.0.0.0 onecollector.cloudapp.aria.akadns.net			# Entry added with W10Privacy (www.winprivacy.de)!
+0.0.0.0 onesettings-bn2.metron.live.com.nsatc.net			# Entry added with W10Privacy (www.winprivacy.de)!
+0.0.0.0 onesettings-cy2.metron.live.com.nsatc.net			# Entry added with W10Privacy (www.winprivacy.de)!
+0.0.0.0 onesettings-db5.metron.live.com.nsatc.net			# Entry added with W10Privacy (www.winprivacy.de)!
+0.0.0.0 onesettings-hk2.metron.live.com.nsatc.net			# Entry added with W10Privacy (www.winprivacy.de)!
+0.0.0.0 ow1.res.office365.com			# Entry added with W10Privacy (www.winprivacy.de)!
+0.0.0.0 pre.footprintpredict.com			# Entry added with W10Privacy (www.winprivacy.de)!
+0.0.0.0 preview.msn.com			# Entry added with W10Privacy (www.winprivacy.de)!
+0.0.0.0 pricelist.skype.com			# Entry added with W10Privacy (www.winprivacy.de)!
+0.0.0.0 prod.nexusrules.live.com.akadns.net			# Entry added with W10Privacy (www.winprivacy.de)!
+0.0.0.0 query.prod.cms.rt.microsoft.com			# Entry added with W10Privacy (www.winprivacy.de)!
+0.0.0.0 rad.live.com			# Entry added with W10Privacy (www.winprivacy.de)!
+0.0.0.0 rad.msn.com			# Entry added with W10Privacy (www.winprivacy.de)!
+0.0.0.0 redir.metaservices.microsoft.com			# Entry added with W10Privacy (www.winprivacy.de)!
+0.0.0.0 register.cdpcs.microsoft.com			# Entry added with W10Privacy (www.winprivacy.de)!
+0.0.0.0 reports.wes.df.telemetry.microsoft.com			# Entry added with W10Privacy (www.winprivacy.de)!
+0.0.0.0 ris.api.iris.microsoft.com			# Entry added with W10Privacy (www.winprivacy.de)!
+0.0.0.0 ris-prod-atm.trafficmanager.net			# Entry added with W10Privacy (www.winprivacy.de)!
+0.0.0.0 s-0001.s-msedge.net			# Entry added with W10Privacy (www.winprivacy.de)!
+0.0.0.0 s.gateway.messenger.live.com			# Entry added with W10Privacy (www.winprivacy.de)!
+0.0.0.0 s0.2mdn.net			# Entry added with W10Privacy (www.winprivacy.de)!
+0.0.0.0 s2s.config.skype.com			# Entry added with W10Privacy (www.winprivacy.de)!
+0.0.0.0 schemas.microsoft.akadns.net			# Entry added with W10Privacy (www.winprivacy.de)!
+0.0.0.0 secure.adnxs.com			# Entry added with W10Privacy (www.winprivacy.de)!
+0.0.0.0 secure.flashtalking.com			# Entry added with W10Privacy (www.winprivacy.de)!
+0.0.0.0 self.events.data.microsoft.com			# Entry added with W10Privacy (www.winprivacy.de)!
+0.0.0.0 service.weather.microsoft.com			# Entry added with W10Privacy (www.winprivacy.de)!
+0.0.0.0 services.wes.df.telemetry.microsoft.com			# Entry added with W10Privacy (www.winprivacy.de)!
+0.0.0.0 settings.data.microsoft.com			# Entry added with W10Privacy (www.winprivacy.de)!
+0.0.0.0 settings.data.glbdns2.microsoft.com			# Entry added with W10Privacy (www.winprivacy.de)!
+0.0.0.0 settings-sandbox.data.microsoft.com			# Entry added with W10Privacy (www.winprivacy.de)!
+0.0.0.0 settings-win.data.microsoft.com			# Entry added with W10Privacy (www.winprivacy.de)!
+0.0.0.0 settings-win-ppe.data.microsoft.com			# Entry added with W10Privacy (www.winprivacy.de)!
+0.0.0.0 sfdataservice.microsoft.com			# Entry added with W10Privacy (www.winprivacy.de)!
+0.0.0.0 sg2p.wns.windows.com			# Entry added with W10Privacy (www.winprivacy.de)!
+0.0.0.0 share.microsoft.com			# Entry added with W10Privacy (www.winprivacy.de)!
+0.0.0.0 sO.2mdn.net			# Entry added with W10Privacy (www.winprivacy.de)!
+0.0.0.0 sqm.df.telemetry.microsoft.com			# Entry added with W10Privacy (www.winprivacy.de)!
+0.0.0.0 sqm.telemetry.microsoft.com			# Entry added with W10Privacy (www.winprivacy.de)!
+0.0.0.0 sqm.telemetry.microsoft.com.nsatc.net			# Entry added with W10Privacy (www.winprivacy.de)!
+0.0.0.0 spynet2.microsoft.com			# Entry added with W10Privacy (www.winprivacy.de)!
+0.0.0.0 spynetalt.microsoft.com			# Entry added with W10Privacy (www.winprivacy.de)!
+0.0.0.0 spyneteurope.microsoft.akadns.net			# Entry added with W10Privacy (www.winprivacy.de)!
+0.0.0.0 ssw.live.com			# Entry added with W10Privacy (www.winprivacy.de)!
+0.0.0.0 static.2mdn.net			# Entry added with W10Privacy (www.winprivacy.de)!
+0.0.0.0 statsfe1.ws.microsoft.com			# Entry added with W10Privacy (www.winprivacy.de)!
+0.0.0.0 statsfe2.update.microsoft.com.akadns.net			# Entry added with W10Privacy (www.winprivacy.de)!
+0.0.0.0 statsfe2.ws.microsoft.com			# Entry added with W10Privacy (www.winprivacy.de)!
+0.0.0.0 survey.watson.microsoft.com			# Entry added with W10Privacy (www.winprivacy.de)!
+0.0.0.0 t.checkappexec.microsoft.com			# Entry added with W10Privacy (www.winprivacy.de)!
+0.0.0.0 tele.trafficmanager.net			# Entry added with W10Privacy (www.winprivacy.de)!
+0.0.0.0 telecommand.telemetry.microsoft.com			# Entry added with W10Privacy (www.winprivacy.de)!
+0.0.0.0 telecommand.telemetry.microsoft.com.nsat­c.net			# Entry added with W10Privacy (www.winprivacy.de)!
+0.0.0.0 telecommand.telemetry.microsoft.com.nsatc.net			# Entry added with W10Privacy (www.winprivacy.de)!
+0.0.0.0 telemetry.appex.bing.net			# Entry added with W10Privacy (www.winprivacy.de)!
+0.0.0.0 telemetry.microsoft.com			# Entry added with W10Privacy (www.winprivacy.de)!
+0.0.0.0 telemetry.remoteapp.windowsazure.com			# Entry added with W10Privacy (www.winprivacy.de)!
+0.0.0.0 telemetry.urs.microsoft.com			# Entry added with W10Privacy (www.winprivacy.de)!
+0.0.0.0 tile-service.weather.microsoft.com			# Entry added with W10Privacy (www.winprivacy.de)!
+0.0.0.0 tsfe.trafficshaping.dsp.mp.microsoft.com			# Entry added with W10Privacy (www.winprivacy.de)!
+0.0.0.0 ui.skype.com			# Entry added with W10Privacy (www.winprivacy.de)!
+0.0.0.0 umwatsonc.events.data.microsoft.com			# Entry added with W10Privacy (www.winprivacy.de)!
+0.0.0.0 t.urs.microsoft.com			# Entry added with W10Privacy (www.winprivacy.de)!
+0.0.0.0 tk2.plt.msn.com			# Entry added with W10Privacy (www.winprivacy.de)!
+0.0.0.0 uhf.microsoft.com			# Entry added with W10Privacy (www.winprivacy.de)!
+0.0.0.0 urs.microsoft.com			# Entry added with W10Privacy (www.winprivacy.de)!
+0.0.0.0 urs.smartscreen.microsoft.com			# Entry added with W10Privacy (www.winprivacy.de)!
+0.0.0.0 us-v10.events.data.microsoft.com			# Entry added with W10Privacy (www.winprivacy.de)!
+0.0.0.0 us-v20.events.data.microsoft.com			# Entry added with W10Privacy (www.winprivacy.de)!
+0.0.0.0 us.configsvc1.live.com.akadns.net			# Entry added with W10Privacy (www.winprivacy.de)!
+0.0.0.0 us.vortex-win.data.microsft.com			# Entry added with W10Privacy (www.winprivacy.de)!
+0.0.0.0 us.vortex-win.data.microsoft.com			# Entry added with W10Privacy (www.winprivacy.de)!
+0.0.0.0 v10.events.data.microsoft.com			# Entry added with W10Privacy (www.winprivacy.de)!
+0.0.0.0 v10.vortex-win.data.microsft.com			# Entry added with W10Privacy (www.winprivacy.de)!
+0.0.0.0 v10.vortex-win.data.microsoft.com			# Entry added with W10Privacy (www.winprivacy.de)!
+0.0.0.0 v10-win.vortex.data.microsft.com.akadns.net			# Entry added with W10Privacy (www.winprivacy.de)!
+0.0.0.0 v10-win.vortex.data.microsoft.com.akadns.net			# Entry added with W10Privacy (www.winprivacy.de)!
+0.0.0.0 v10.vortex-win.data.metron.live.com.nsatc.net			# Entry added with W10Privacy (www.winprivacy.de)!
+0.0.0.0 v10c.events.data.microsoft.com			# Entry added with W10Privacy (www.winprivacy.de)!
+0.0.0.0 v10c.vortex-win.data.microsoft.com			# Entry added with W10Privacy (www.winprivacy.de)!
+0.0.0.0 v20.events.data.microsoft.com			# Entry added with W10Privacy (www.winprivacy.de)!
+0.0.0.0 v20.vortex-win.data.microsoft.com			# Entry added with W10Privacy (www.winprivacy.de)!
+0.0.0.0 view.atdmt.com			# Entry added with W10Privacy (www.winprivacy.de)!
+0.0.0.0 vip5.afdorigin-prod-am02.afdogw.com			# Entry added with W10Privacy (www.winprivacy.de)!
+0.0.0.0 vortex.data.glbdns2.microsoft.com			# Entry added with W10Privacy (www.winprivacy.de)!
+0.0.0.0 vortex.data.microsoft.com			# Entry added with W10Privacy (www.winprivacy.de)!
+0.0.0.0 vortex.data.metron.live.com.nsatc.net			# Entry added with W10Privacy (www.winprivacy.de)!
+0.0.0.0 vortex-bn2.metron.live.com.nsatc.net			# Entry added with W10Privacy (www.winprivacy.de)!
+0.0.0.0 vortex-cy2.metron.live.com.nsatc.net			# Entry added with W10Privacy (www.winprivacy.de)!
+0.0.0.0 vortex-db5.metron.live.com.nsatc.net			# Entry added with W10Privacy (www.winprivacy.de)!
+0.0.0.0 vortex-hk2.metron.live.com.nsatc.net			# Entry added with W10Privacy (www.winprivacy.de)!
+0.0.0.0 vortex-sandbox.data.microsoft.com			# Entry added with W10Privacy (www.winprivacy.de)!
+0.0.0.0 vortex-win.data.microsoft.com			# Entry added with W10Privacy (www.winprivacy.de)!
+0.0.0.0 vortex-win.data.metron.live.com.nsatc.net			# Entry added with W10Privacy (www.winprivacy.de)!
+0.0.0.0 vortex-win-sandbox.data.microsoft.com			# Entry added with W10Privacy (www.winprivacy.de)!
+0.0.0.0 w.apprep.smartscreen.microsoft.com			# Entry added with W10Privacy (www.winprivacy.de)!
+0.0.0.0 wallet.microsoft.com			# Entry added with W10Privacy (www.winprivacy.de)!
+0.0.0.0 watson.live.com			# Entry added with W10Privacy (www.winprivacy.de)!
+0.0.0.0 watson.microsoft.com			# Entry added with W10Privacy (www.winprivacy.de)!
+0.0.0.0 watson.ppe.telemetry.microsoft.com			# Entry added with W10Privacy (www.winprivacy.de)!
+0.0.0.0 watson.telemetry.microsoft.com			# Entry added with W10Privacy (www.winprivacy.de)!
+0.0.0.0 watson.telemetry.microsoft.com.nsatc.net			# Entry added with W10Privacy (www.winprivacy.de)!
+0.0.0.0 wd-prod-cp-us-east-2-fe.eastus.cloudapp.azure.com			# Entry added with W10Privacy (www.winprivacy.de)!
+0.0.0.0 wdcp.microsoft.com			# Entry added with W10Privacy (www.winprivacy.de)!
+0.0.0.0 wdcpalt.microsoft.com			# Entry added with W10Privacy (www.winprivacy.de)!
+0.0.0.0 web.vortex.data.microsoft.com			# Entry added with W10Privacy (www.winprivacy.de)!
+0.0.0.0 wes.df.telemetry.microsoft.com			# Entry added with W10Privacy (www.winprivacy.de)!
+0.0.0.0 weus2watcab01.blob.core.windows.net			# Entry added with W10Privacy (www.winprivacy.de)!
+0.0.0.0 weus2watcab02.blob.core.windows.net			# Entry added with W10Privacy (www.winprivacy.de)!
+0.0.0.0 wscont.apps.microsoft.com			# Entry added with W10Privacy (www.winprivacy.de)!
+0.0.0.0 wscont.apps.microsoft.com.edgesuite.net			# Entry added with W10Privacy (www.winprivacy.de)!
+0.0.0.0 wscont1.apps.microsoft.com			# Entry added with W10Privacy (www.winprivacy.de)!
+0.0.0.0 wscont2.apps.microsoft.com			# Entry added with W10Privacy (www.winprivacy.de)!
+0.0.0.0 wpc.v0cdn.net			# Entry added with W10Privacy (www.winprivacy.de)!
+0.0.0.0 x.urs.microsoft.com			# Entry added with W10Privacy (www.winprivacy.de)!
+0.0.0.0 candycrushsoda.king.com			# Entry added with W10Privacy (www.winprivacy.de)!
+0.0.0.0 eu.vortex-win.data.microsft.com			# Entry added with W10Privacy (www.winprivacy.de)!
+0.0.0.0 sqm.telemetry.microsoft.com.nsatc.net 			# Entry added with W10Privacy (www.winprivacy.de)!
