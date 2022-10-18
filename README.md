@@ -26,12 +26,13 @@ Example:
 Going to NoTracking Repo we see a Host for "dnsmasq" when we hover our mouse over the link
 the right click copied link would be 
 
-https://i.imgur.com/mV88i0c.png
+![Screenshot_21](https://user-images.githubusercontent.com/114315756/196557850-de2bd32e-22c4-42b7-8d33-87b94d0a73f2.png)
+
 
 Though the "Simple Host Bocker" does support re-formating the URL Correctly so it can grab the last update TimeStamp
 Its best to actually open the URL and copy the redirected URL
 If we click it the new URL appears as:
 
-https://i.imgur.com/rKFsQk9.png
+![Screenshot_20](https://user-images.githubusercontent.com/114315756/196557875-bbbb6e7d-115c-4b0d-b304-3ceb32b87078.png)
 
 Once upon opening if it downloads the host you can try adding .txt to the end of the URL , and or just direct copy that URL
