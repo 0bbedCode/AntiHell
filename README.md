@@ -20,3 +20,16 @@ https://github.com/notracking/hosts-blocklists
 
 When Selecting a Repo, PLEASE see if you can click the link to the TXT file first to see if it redirects you, then copy and use the Redirect Link
 Otherwise just right clik copy URL
+
+Example:
+
+Going to NoTracking Repo we see a Host for "dnsmasq" when we hover our mouse over the link
+the right click copied link would be 
+
+https://i.imgur.com/mV88i0c.png
+
+Though the "Simple Host Bocker" does support re-formating the URL Correctly so it can grab the last update TimeStamp
+Its best to actually open the URL and copy the redirected URL
+If we click it the new URL appears as:
+
+https://i.imgur.com/rKFsQk9.png
